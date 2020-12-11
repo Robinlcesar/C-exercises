@@ -1,2 +1,4 @@
-# ED2
-C exercises
+### ED 2
+C exercises from college
+
+---
